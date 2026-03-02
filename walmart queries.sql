@@ -1,15 +1,3 @@
-#Exploratory data analysis:
-SELECT * FROM walmart;
-SELECT COUNT(*) FROM walmart;
-SELECT DISTINCT payment_method FROM walmart;
-
-SELECT payment_method, COUNT(*)
-FROM walmart 
-GROUP BY payment_method;
-
-SELECT DISTINCT COUNT(DISTINCT Branch) FROM walmart;
-SELECT Max(quantity) FROM walmart;
-
 # Business Problems:
 # Q1 Find different payment method and number of transaction, number of qty sold. 
 SELECT DISTINCT payment_method, count(*) AS no_transaction, SUM(quantity) AS no_qty FROM walmart GROUP BY payment_method;
