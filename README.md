@@ -1,7 +1,8 @@
 # 🛒 Walmart Data Analysis: End-to-End SQL + Python Project (P-9)
 
 ## 📌 Project Overview
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/29dba7c4-f71f-4040-afce-c1a89eaedcc6" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f31f5bf1-52e9-409c-984e-36743e199cf1" />
+
 
 
 
@@ -208,12 +209,6 @@ Set up Kaggle API, download the dataset, and follow the pipeline steps.
 * Integration with dashboard tools (Power BI / Tableau)
 * Add external datasets for deeper insights
 * Automate pipeline for real-time analytics
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
