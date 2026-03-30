@@ -53,7 +53,7 @@ Calculate total profit for each category using:
 **Total Profit = Unit Price × Quantity × Profit Margin**  
 Display categories ordered from highest to lowest profit.  
 
-<img width="800" alt="Q6 Profit Analysis" src="Assets/Screenshot%202026-03-28%20193724.png" />
+<img width="800" alt="Q6 Profit Analysis" src="Assets/Screenshot 2026-03-31 012824.png" />
 
 ---
 
